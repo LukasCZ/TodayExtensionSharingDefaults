@@ -1,7 +1,7 @@
 TodayExtensionSharingDefaults
 =============================
 
-As the name suggests, this is a sample app of iOS 8 Today extension which shares data with its containing app using NSUserDefaults.
+As the name suggests, this is a sample iOS 8 Today extension which shares data with its containing app using NSUserDefaults.
 
 For detailed step-by-step tutorial, check out this <a href="http://glimsoft.com/">blog post</a>.
 
